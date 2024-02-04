@@ -67,7 +67,8 @@ ORDER BY
    Lowest_LifeExpectancy ASC
 LIMIT
   10
-![image](https://github.com/kaustubha011110/KaustubhaN/assets/154294135/f20c0bbf-2ee3-4791-8790-f4945806dad3)
+![image](https://github.com/kaustubha011110/KaustubhaN/assets/154294135/755f2bbc-67e9-4726-8013-e42ab15cbf08)
+
 ```
 9. FIND, WHERE RELATED INDICATORS AND COUNTRY CODE ARE EQUAL BY LEFT JOINING THE WORLD BANK SERIES SUMMARY.
 ```SQL
